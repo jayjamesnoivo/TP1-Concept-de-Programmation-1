@@ -61,6 +61,6 @@ TP1-Jeremy/
 Dans un terminal :
 
 ```bash
-cd TP1
+cd TP1-Concept-de-Programmation-1
 python biblio.py
 
